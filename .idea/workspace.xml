@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6d8454a-d210-4d2b-98ac-a69f7a4f57d4" name="Default Changelist" comment="livetvhd 01">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/channels_V2/bdix/alloverbd.m3u">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="803">
+              <caret line="12208" column="174" selection-start-line="12208" selection-start-column="174" selection-end-line="12208" selection-end-column="174" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/channels_V2/bdix/bdix_kids">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="881">
+              <caret line="160" selection-start-line="160" selection-end-line="160" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PWdUZHowbUwyUjNjMWhYZHNaMlA0VTNNdDVDZHpsR2I1RkdidzlTWXRsMmN6bEdjd0YyWXZFV2JwTjNjcEJIY2hOMkx3Z2pPc05tTGtoMlp1bFdiaFZtYzBObkxzTjJMdm9EYzBSSGE=</find>
+      <find>PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MFdZbEpIZFRsWGJ2WUhkczlTTnprVE02SURPdVFUT3g0aU14NENOd0l6THZvRGMwUkhh</find>
+      <find>PWdUZHowbUwwTlhhc2xYWXNCM0xzbFdiejVpZDBsMkwyUlhhdlVtZHB4bUx6QkhadXcyWXRRRFpsUlhhdGxHYnVWM0x2b0RjMFJIYQ==</find>
+      <find>PT1BTzFOVGJ1TTNhdVZIYWo5U010RldaeVIzY2xaWGFzOWlkMFJYWnZaSGJ2aDJMc2xXYno1aWQwUlhadlpIYnZoMkwyUkhkbDltZHM5R2F2VW1kcHhtTHpCSFp1dzJZdFlEWmxSWGF0bEdidVYzTHZvRGMwUkhh</find>
+      <find>PT1BTzFOVGJ1WUhkelZIZTF4bVovZ1RkejBtTDRWR1p1bDJMeFVtZHB4MkwyUlhZcE5XWXlkMkxzTm1MbjVXYXRGV1p5UjNjMVJuTHpZM0x2b0RjMFJIYQ==</find>
+      <find>PT1BTzFOVGJ1UTNjcHhXZWh4R2N2RVRiaFZtYzBOWFoybEdidjhtZHBaSGJoVjNjcFozYnlsMlp2d1dZMU5YYTI5bWNwZDJMdDkyWXVJWFoySlhaejltY3d4V1kwbDJacFJtTHRGV1p5UjNjc2xtZHYxMkx2b0RjMFJIYQ==</find>
+      <find>PWdUZHowbUw0VkdadWwyTHhFV00yMXljck5XWXlSM0x4VW1kcHgyTDJSSGJobG1ibGQyTHNObUxuNVdhdEZXWnlSM2MxUm5MelkzTHZvRGMwUkhh</find>
+      <find>NFUzTXQ1Q2N6VkdiejlGTXdBRE13Z2pZZlIzY3B4MmF1VkhhajlDYnAxMmN1NEdaanBEYnAxMmN2UTNibzFtWnZ3Mll1b25ia05tTHNObUwwQWpMMDlHYXRaMkx2b0RjMFJIYQ==</find>
+      <find>PWdUZHowbUx2d1dhdE5uTHVSMll2UTNibzFtWnZ3Mll1b25ia05tTHNObUwwQWpMMDlHYXRaMkx2b0RjMFJIYQ==</find>
+      <find>PT1BTzFOVGJ1Z1haazVXYXZrR2FmUkdhdlpYYTI5eWNzaDJMc05tTHVOV1p1Y21icDFXWWxKSGR6OXlMNk1IYzBSSGE=</find>
+      <find>NFUzTXQ1U2JoVm1jME5YWjJsR2J2VTJZeVYzYno5bGQwOW1icFYzWnVsR2N2VW1kcHgyTDFNVE94b1Ridk5tTHY1V2ExZG1icEJIYmw1eVp1bFdiaFZtYzBOM0x2b0RjMFJIYQ==</find>
+      <find>PWdUZHowbUxoTkdhaEoyY2hoMkx3QmpNMzhsZDA5bWJwVjNadWxHY3ZVbWRweDJMMU1UT3hvVGJ2Tm1MdjVXYTFkbWJwQkhibDV5WnVsV2JoVm1jME4zTHZvRGMwUkhh</find>
+      <find>NFUzTXQ1aWQwTlhkNFZIYm05RE8xTlRidVEzY3B4V2VoeEdjdndXYXRObkwyUjNiMEpYWnBOWFprOWlkMDlHZHlWV2F6VkdadlVtZHB4bUx6QkhadXcyWXRZRFpsUlhhdGxHYnVWM0x2b0RjMFJIYQ==</find>
+      <find>PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d1dhdE5uTHU5V2F6bG1kcFJuYnZOMkx1OVdhemxtZHBSbmJ2TjJMbFpYYXM1eWN3Um1Mc05XTDBRV1owbFdicHhtYjE5eUw2TUhjMFJIYQ==</find>
+      <find>PWdUZHowbUwwTlhhc3RtYjFoMll2VW1kcHgyTDVFVFl5RldiaE4yTHNObUw2NUdaajVDYmo1eU13NFNZeUZXYmhOMkx2b0RjMFJIYQ==</find>
+      <find>NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JqNXlibkZXYTA1V1l6SmpNc0ZtYmhOMkx2b0RjMFJIYQ==</find>
+      <find>PWdUZHowbUwwTlhhc2xYWXNCM0x4UUROdmxHWjFGR2JqOVNNMFF6YnBSV2RoeDJZdkFETzZ3</find>
+      <find>PWdUZHowbUwwTlhhc2xYWXNCM0xzbFdiejVpTXNGbWJoTjJMeXdXWXVGMll2VW1kcHhtTHpCSFp1dzJZdFVEWmxSWGF0bEdidVYzTHZvRGMwUkhh</find>
+      <find>PWdUZHowbUx6dG1iMWgyWXZFVGJoVm1jME5YWjJsR2J2WUhkelZIY3RGMll2d1dhdE5uTDJSM2MxQlhiaE4yTDJSM2MxQlhiaE4yTGxaWGFzNXljd1JtTHpWWEx4UVdaMGxXYnB4bWIxOXlMNk1IYzBSSGE=</find>
+      <find>PWdUZHowbUx6dG1iMWgyWXZJVGJoVm1jME5YWjJsR2J2WUhkaDlDYnAxMmN1WUhkaDlpZDBGMkxsWlhhczV5Y3dSbUx6VlhMeFFXWjBsV2JweG1iMTl5TDZNSGMwUkhh</find>
+      <find>PWdUZHowbUwyUjNjMWhYZHNaMlA0VTNNdDVTTzVrVE81a1RMazVXYTNWbWN2RVRZeFlYTHp0MlloSkhkdkVUWjJsR2J2WUhkdEYyTHNObUxuNVdhdEZXWnlSM2MxUm5MelkzTHZvRGMwUkhh</find>
+      <find>NFUzTXQ1Q2R6bEdiNUZHYnc5aU01RURPdklUT3hnekwwVm1idXMyWXZ4V2JoVm1jME5uTHdjak4xTUdOalJETWlOVE8xOHlMNk1IYzBSSGE=</find>
+      <find>CHILE</find>
+      <find>China</find>
+      <find>USA</find>
+      <find>United states</find>
+      <find>group-title=&quot;UK</find>
+      <find>cartoo</find>
+      <find>cartoon</find>
+      <find>kids</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/A/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/B/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/C/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/D/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/E/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/F/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/G_H/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/I_K/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/L_M/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/N_Q/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/R_S/</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/T_Z/</replace>
+      <replace>m3u</replace>
+      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/category/</replace>
+      <replace>group-title=&quot;PAKISTAN&quot;</replace>
+      <replace>Algeria</replace>
+      <replace>https://dl1.cbsistatic.com/i/2019/06/17/b17c6d61-946a-4ef1-b143-c08abc7853d0/153892094d660bca1eee0558e77f25be/imgingest-4799450232874756679.png</replace>
+      <replace>Bosnia and Herzegovina</replace>
+      <replace>Bolivia</replace>
+      <replace>Belgium</replace>
+      <replace>Australia</replace>
+      <replace>Afghanistan</replace>
+      <replace>Brazil</replace>
+      <replace>Argentina</replace>
+      <replace>Cameroon</replace>
+      <replace>Bulgaria</replace>
+      <replace>Chile</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/country/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/all/livetv_playlist.m3u" />
+        <option value="$PROJECT_DIR$/country/N_Q/pakistan.m3u" />
+        <option value="$PROJECT_DIR$/channels_V2/feb2020/livetvhd.m3u" />
+        <option value="$PROJECT_DIR$/channels_V2/feb2020/livetvhd00.m3u" />
+        <option value="$PROJECT_DIR$/channels_V2/feb2020/livetvhd04.m3u" />
+        <option value="$PROJECT_DIR$/channels_V2/feb2020/livetvhd05.m3u" />
+        <option value="$PROJECT_DIR$/channels_V2/feb2020/livetvhd06.m3u" />
+        <option value="$PROJECT_DIR$/channels_V2/feb2020/1581283219173.m3u" />
+        <option value="$PROJECT_DIR$/channels_V2/feb2020/livetvhd08.m3u" />
+        <option value="$PROJECT_DIR$/images/help" />
+        <option value="$PROJECT_DIR$/images/test" />
+        <option value="$PROJECT_DIR$/channels_V2/feb2020/livetvhd01.m3u" />
+        <option value="$PROJECT_DIR$/channels_V2/feb2020/livetvhd02.m3u" />
+        <option value="$PROJECT_DIR$/images/bdusers" />
+        <option value="$PROJECT_DIR$/channels_V2/feb2020/livetvhd03.m3u" />
+        <option value="$PROJECT_DIR$/channels_V2/bdix/all.m3u" />
+        <option value="$PROJECT_DIR$/all/grouped_by_country.m3u" />
+        <option value="$PROJECT_DIR$/channels_V2/bdix/test" />
+        <option value="$PROJECT_DIR$/channels_V2/bdix/bdix.m3u" />
+        <option value="$PROJECT_DIR$/channels_V2/bdix/bdix_kids" />
+        <option value="$PROJECT_DIR$/channels_V2/bdix/alloverbd.m3u" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1895" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IPTV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IPTV" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IPTV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IPTV" type="462c0819:PsiDirectoryNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IPTV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IPTV" type="462c0819:PsiDirectoryNode" />
+              <item name="channels_V2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IPTV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IPTV" type="462c0819:PsiDirectoryNode" />
+              <item name="channels_V2" type="462c0819:PsiDirectoryNode" />
+              <item name="bdix" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IPTV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IPTV" type="462c0819:PsiDirectoryNode" />
+              <item name="channels_V2" type="462c0819:PsiDirectoryNode" />
+              <item name="feb2020" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IPTV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IPTV" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="D:/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/channels_V2/bdix" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AppsGallery\IPTV\channels_V2\bdix" />
+      <recent name="E:\AppsGallery\IPTV\channels_V2" />
+      <recent name="E:\AppsGallery\IPTV\channels_V2\feb2020" />
+      <recent name="E:\AppsGallery\AppAsset\GitHubLink\iptv1\IPTV\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\AppsGallery\IPTV\channels_V2\bdix" />
+      <recent name="E:\AppsGallery\IPTV\channels_V2\feb2020" />
+      <recent name="E:\AppsGallery\IPTV\channels_V2" />
+      <recent name="E:\AppsGallery\AppAsset\GitHubLink\iptv1\IPTV\country\T_Z" />
+      <recent name="E:\AppsGallery\AppAsset\GitHubLink\iptv1\IPTV\country\R_S" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6d8454a-d210-4d2b-98ac-a69f7a4f57d4" name="Default Changelist" comment="" />
+      <created>1568791181610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568791181610</updated>
+    </task>
+    <task id="LOCAL-00001" summary="m3u list">
+      <created>1568792693553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568792693553</updated>
+    </task>
+    <task id="LOCAL-00002" summary="m3u list full">
+      <created>1568802077699</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568802077699</updated>
+    </task>
+    <task id="LOCAL-00003" summary="readme">
+      <created>1568807649336</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568807649336</updated>
+    </task>
+    <task id="LOCAL-00004" summary="images">
+      <created>1568810586007</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568810586007</updated>
+    </task>
+    <task id="LOCAL-00005" summary="images">
+      <created>1568810937384</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568810937384</updated>
+    </task>
+    <task id="LOCAL-00006" summary="images">
+      <created>1568811116248</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568811116248</updated>
+    </task>
+    <task id="LOCAL-00007" summary="images">
+      <created>1568811244501</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1568811244501</updated>
+    </task>
+    <task id="LOCAL-00008" summary="images">
+      <created>1568811371669</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568811371669</updated>
+    </task>
+    <task id="LOCAL-00009" summary="init all">
+      <created>1573110870037</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1573110870037</updated>
+    </task>
+    <task id="LOCAL-00010" summary="livetvhd test">
+      <created>1581315023249</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1581315023249</updated>
+    </task>
+    <task id="LOCAL-00011" summary="livetvhd test">
+      <created>1581315566423</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1581315566423</updated>
+    </task>
+    <task id="LOCAL-00012" summary="livetvhd test">
+      <created>1581330911382</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1581330911382</updated>
+    </task>
+    <task id="LOCAL-00013" summary="livetvhd 01">
+      <created>1581331098270</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1581331098270</updated>
+    </task>
+    <task id="LOCAL-00014" summary="livetvhd 03-06">
+      <created>1581331586635</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1581331586635</updated>
+    </task>
+    <task id="LOCAL-00015" summary="livetvhd 01">
+      <created>1581331745533</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1581331745533</updated>
+    </task>
+    <task id="LOCAL-00016" summary="livetvhd 01">
+      <created>1581331881419</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1581331881419</updated>
+    </task>
+    <task id="LOCAL-00017" summary="livetvhd 02 07 08">
+      <created>1581333814198</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1581333814198</updated>
+    </task>
+    <task id="LOCAL-00018" summary="livetvhd 02 07 08">
+      <created>1581333835654</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1581333835654</updated>
+    </task>
+    <task id="LOCAL-00019" summary="livetvhd 002 07 08">
+      <created>1581334012606</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1581334012606</updated>
+    </task>
+    <task id="LOCAL-00020" summary="3items">
+      <created>1581335654413</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1581335654413</updated>
+    </task>
+    <task id="LOCAL-00021" summary="3 items">
+      <created>1581336055332</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1581336055332</updated>
+    </task>
+    <task id="LOCAL-00022" summary="bd users">
+      <created>1581338480891</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1581338480891</updated>
+    </task>
+    <task id="LOCAL-00023" summary="for bd">
+      <created>1581404744699</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1581404744699</updated>
+    </task>
+    <task id="LOCAL-00024" summary="bdix">
+      <created>1581405591127</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1581405591127</updated>
+    </task>
+    <task id="LOCAL-00025" summary="all 422">
+      <created>1581408688573</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1581408688573</updated>
+    </task>
+    <task id="LOCAL-00026" summary="all over bd filtered ferb2020">
+      <created>1581421182635</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1581421182635</updated>
+    </task>
+    <task id="LOCAL-00027" summary="all over bd update">
+      <created>1581425259508</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1581425259508</updated>
+    </task>
+    <task id="LOCAL-00028" summary="all over bd update">
+      <created>1581484179291</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1581484179291</updated>
+    </task>
+    <task id="LOCAL-00029" summary="untill algeria">
+      <created>1581488888642</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1581488888642</updated>
+    </task>
+    <task id="LOCAL-00030" summary="untill bolivia">
+      <created>1581490990527</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1581490990527</updated>
+    </task>
+    <task id="LOCAL-00031" summary="until chile">
+      <created>1581492656824</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1581492656824</updated>
+    </task>
+    <task id="LOCAL-00032" summary="check push">
+      <created>1581492943308</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1581492943308</updated>
+    </task>
+    <task id="LOCAL-00033" summary="bdix kids">
+      <created>1581505009551</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1581505009551</updated>
+    </task>
+    <task id="LOCAL-00034" summary="test">
+      <created>1581505477835</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1581505477835</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.1130064" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32978722" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.16595745" />
+      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" />
+      <window_info anchor="bottom" id="Flutter Performance" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32978722" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Fabric" order="2" />
+      <window_info anchor="right" id="Android WiFi ADB" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Flutter Inspector" order="5" />
+      <window_info anchor="right" id="Flutter Outline" order="6" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="m3u list" />
+    <MESSAGE value="m3u list full" />
+    <MESSAGE value="readme" />
+    <MESSAGE value="images" />
+    <MESSAGE value="init all" />
+    <MESSAGE value="livetvhd test" />
+    <MESSAGE value="livetvhd 03-06" />
+    <MESSAGE value="livetvhd 01" />
+    <MESSAGE value="livetvhd 02 07 08" />
+    <MESSAGE value="livetvhd 002 07 08" />
+    <MESSAGE value="3items" />
+    <MESSAGE value="3 items" />
+    <MESSAGE value="bd users" />
+    <MESSAGE value="for bd" />
+    <MESSAGE value="bdix" />
+    <MESSAGE value="all 422" />
+    <MESSAGE value="all over bd filtered ferb2020" />
+    <MESSAGE value="all over bd update" />
+    <MESSAGE value="untill algeria" />
+    <MESSAGE value="untill bolivia" />
+    <MESSAGE value="until chile" />
+    <MESSAGE value="check push" />
+    <MESSAGE value="bdix kids" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/country/README.md" />
+    <entry file="file://$PROJECT_DIR$/country/T_Z/uganda.m3u">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/country/T_Z/turkmenistan.m3u">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/country/R_S/switzerland.m3u">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/country/R_S/somalia.m3u">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/country/G_H/gibraltar.m3u">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/screenshot-1568809296025.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/screenshot-1568809500513.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/screenshot-1568809516793.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/screenshot-1568809274051.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/livetv_playlist.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="34" column="108" selection-start-line="34" selection-start-column="108" selection-end-line="34" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/bdix_iptv.m3u">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/grouped_by_content.m3u">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/screenshot-1568809482425.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3094">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/feb2020/1581309787058.m3u" />
+    <entry file="file://$PROJECT_DIR$/channels_V2/feb2020/1581309986179.m3u" />
+    <entry file="file://$PROJECT_DIR$/channels_V2/feb2020/PlayList-adult.m3u" />
+    <entry file="file://$PROJECT_DIR$/channels_V2/feb2020/Vision%2B.m3u" />
+    <entry file="file://$PROJECT_DIR$/channels_V2/livetvhd.m3u" />
+    <entry file="file://$PROJECT_DIR$/country/N_Q/pakistan.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="45" column="98" selection-start-line="45" selection-start-column="98" selection-end-line="45" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/feb2020/1581278014074.m3u" />
+    <entry file="file://$PROJECT_DIR$/channels_V2/feb2020/1581279936708.m3u" />
+    <entry file="file://$PROJECT_DIR$/images/bdusers" />
+    <entry file="file://$PROJECT_DIR$/images/help" />
+    <entry file="file://$PROJECT_DIR$/channels_V2/playlist_india.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/playlist_all.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2652">
+          <caret line="154" column="110" selection-start-line="154" selection-start-column="110" selection-end-line="154" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/feb2020/livetvhd00.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="8715" column="54" selection-start-line="8715" selection-start-column="54" selection-end-line="8715" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/feb2020/livetvhd01.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="283" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/feb2020/livetvhd04.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="383" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/feb2020/livetvhd05.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="881">
+          <caret line="198" column="268" selection-end-line="233" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/feb2020/livetvhd06.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="247" column="64" selection-end-line="1212" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/feb2020/livetvhd07.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="881">
+          <caret line="75" selection-end-line="2471" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/feb2020/livetvhd09.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="313" column="107" selection-end-line="326" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/feb2020/livetvhd08.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/feb2020/livetvhd02.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="813">
+          <caret line="4405" column="121" lean-forward="true" selection-start-line="1" selection-end-line="4405" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/feb2020/livetvhd03.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="696" column="121" selection-start-line="696" selection-start-column="121" selection-end-line="696" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/grouped_by_country.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="8210" column="117" selection-start-line="8210" selection-start-column="114" selection-end-line="8210" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/bdix/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/bdix/bdix.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="881">
+          <caret line="345" column="124" selection-start-line="345" selection-start-column="124" selection-end-line="345" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/bdix/bdix_kids">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="881">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/bdix/alloverbd.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="803">
+          <caret line="12208" column="174" selection-start-line="12208" selection-start-column="174" selection-end-line="12208" selection-end-column="174" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
