@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6d8454a-d210-4d2b-98ac-a69f7a4f57d4" name="Default Changelist" comment="livetvhd 01">
+      <change afterPath="$PROJECT_DIR$/channels_V2/bdix/bdix_bdtv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,20 +16,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/channels_V2/bdix/alloverbd.m3u">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/channels_V2/bdix/bdixtv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="803">
-              <caret line="12208" column="174" selection-start-line="12208" selection-start-column="174" selection-end-line="12208" selection-end-column="174" />
+            <state relative-caret-position="5423">
+              <caret line="319" selection-start-line="319" selection-end-line="319" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/channels_V2/bdix/bdix_kids">
+        <entry file="file://$PROJECT_DIR$/channels_V2/bdix/bdix_kids.m3u">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/channels_V2/bdix/bdix.m3u">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/channels_V2/bdix/test">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/channels_V2/playlist_india.m3u">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="881">
-              <caret line="160" selection-start-line="160" selection-end-line="160" />
+              <caret line="437" selection-start-line="437" selection-end-line="437" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/channels_V2/bdix/bdix_bdtv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/channels_V2/bdix/alloverbd.m3u">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18581">
+              <caret line="1093" column="110" selection-start-line="1093" selection-start-column="110" selection-end-line="1093" selection-end-column="110" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all/deleted">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -37,40 +84,38 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>PWdUZHowbUwyUjNjMWhYZHNaMlA0VTNNdDVDZHpsR2I1RkdidzlTWXRsMmN6bEdjd0YyWXZFV2JwTjNjcEJIY2hOMkx3Z2pPc05tTGtoMlp1bFdiaFZtYzBObkxzTjJMdm9EYzBSSGE=</find>
-      <find>PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MFdZbEpIZFRsWGJ2WUhkczlTTnprVE02SURPdVFUT3g0aU14NENOd0l6THZvRGMwUkhh</find>
-      <find>PWdUZHowbUwwTlhhc2xYWXNCM0xzbFdiejVpZDBsMkwyUlhhdlVtZHB4bUx6QkhadXcyWXRRRFpsUlhhdGxHYnVWM0x2b0RjMFJIYQ==</find>
-      <find>PT1BTzFOVGJ1TTNhdVZIYWo5U010RldaeVIzY2xaWGFzOWlkMFJYWnZaSGJ2aDJMc2xXYno1aWQwUlhadlpIYnZoMkwyUkhkbDltZHM5R2F2VW1kcHhtTHpCSFp1dzJZdFlEWmxSWGF0bEdidVYzTHZvRGMwUkhh</find>
-      <find>PT1BTzFOVGJ1WUhkelZIZTF4bVovZ1RkejBtTDRWR1p1bDJMeFVtZHB4MkwyUlhZcE5XWXlkMkxzTm1MbjVXYXRGV1p5UjNjMVJuTHpZM0x2b0RjMFJIYQ==</find>
-      <find>PT1BTzFOVGJ1UTNjcHhXZWh4R2N2RVRiaFZtYzBOWFoybEdidjhtZHBaSGJoVjNjcFozYnlsMlp2d1dZMU5YYTI5bWNwZDJMdDkyWXVJWFoySlhaejltY3d4V1kwbDJacFJtTHRGV1p5UjNjc2xtZHYxMkx2b0RjMFJIYQ==</find>
-      <find>PWdUZHowbUw0VkdadWwyTHhFV00yMXljck5XWXlSM0x4VW1kcHgyTDJSSGJobG1ibGQyTHNObUxuNVdhdEZXWnlSM2MxUm5MelkzTHZvRGMwUkhh</find>
-      <find>NFUzTXQ1Q2N6VkdiejlGTXdBRE13Z2pZZlIzY3B4MmF1VkhhajlDYnAxMmN1NEdaanBEYnAxMmN2UTNibzFtWnZ3Mll1b25ia05tTHNObUwwQWpMMDlHYXRaMkx2b0RjMFJIYQ==</find>
-      <find>PWdUZHowbUx2d1dhdE5uTHVSMll2UTNibzFtWnZ3Mll1b25ia05tTHNObUwwQWpMMDlHYXRaMkx2b0RjMFJIYQ==</find>
-      <find>PT1BTzFOVGJ1Z1haazVXYXZrR2FmUkdhdlpYYTI5eWNzaDJMc05tTHVOV1p1Y21icDFXWWxKSGR6OXlMNk1IYzBSSGE=</find>
-      <find>NFUzTXQ1U2JoVm1jME5YWjJsR2J2VTJZeVYzYno5bGQwOW1icFYzWnVsR2N2VW1kcHgyTDFNVE94b1Ridk5tTHY1V2ExZG1icEJIYmw1eVp1bFdiaFZtYzBOM0x2b0RjMFJIYQ==</find>
-      <find>PWdUZHowbUxoTkdhaEoyY2hoMkx3QmpNMzhsZDA5bWJwVjNadWxHY3ZVbWRweDJMMU1UT3hvVGJ2Tm1MdjVXYTFkbWJwQkhibDV5WnVsV2JoVm1jME4zTHZvRGMwUkhh</find>
-      <find>NFUzTXQ1aWQwTlhkNFZIYm05RE8xTlRidVEzY3B4V2VoeEdjdndXYXRObkwyUjNiMEpYWnBOWFprOWlkMDlHZHlWV2F6VkdadlVtZHB4bUx6QkhadXcyWXRZRFpsUlhhdGxHYnVWM0x2b0RjMFJIYQ==</find>
-      <find>PT1BTzFOVGJ1UTNjcHhXZWh4R2N2d1dhdE5uTHU5V2F6bG1kcFJuYnZOMkx1OVdhemxtZHBSbmJ2TjJMbFpYYXM1eWN3Um1Mc05XTDBRV1owbFdicHhtYjE5eUw2TUhjMFJIYQ==</find>
-      <find>PWdUZHowbUwwTlhhc3RtYjFoMll2VW1kcHgyTDVFVFl5RldiaE4yTHNObUw2NUdaajVDYmo1eU13NFNZeUZXYmhOMkx2b0RjMFJIYQ==</find>
-      <find>NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JqNXlibkZXYTA1V1l6SmpNc0ZtYmhOMkx2b0RjMFJIYQ==</find>
-      <find>PWdUZHowbUwwTlhhc2xYWXNCM0x4UUROdmxHWjFGR2JqOVNNMFF6YnBSV2RoeDJZdkFETzZ3</find>
-      <find>PWdUZHowbUwwTlhhc2xYWXNCM0xzbFdiejVpTXNGbWJoTjJMeXdXWXVGMll2VW1kcHhtTHpCSFp1dzJZdFVEWmxSWGF0bEdidVYzTHZvRGMwUkhh</find>
-      <find>PWdUZHowbUx6dG1iMWgyWXZFVGJoVm1jME5YWjJsR2J2WUhkelZIY3RGMll2d1dhdE5uTDJSM2MxQlhiaE4yTDJSM2MxQlhiaE4yTGxaWGFzNXljd1JtTHpWWEx4UVdaMGxXYnB4bWIxOXlMNk1IYzBSSGE=</find>
-      <find>PWdUZHowbUx6dG1iMWgyWXZJVGJoVm1jME5YWjJsR2J2WUhkaDlDYnAxMmN1WUhkaDlpZDBGMkxsWlhhczV5Y3dSbUx6VlhMeFFXWjBsV2JweG1iMTl5TDZNSGMwUkhh</find>
-      <find>PWdUZHowbUwyUjNjMWhYZHNaMlA0VTNNdDVTTzVrVE81a1RMazVXYTNWbWN2RVRZeFlYTHp0MlloSkhkdkVUWjJsR2J2WUhkdEYyTHNObUxuNVdhdEZXWnlSM2MxUm5MelkzTHZvRGMwUkhh</find>
-      <find>NFUzTXQ1Q2R6bEdiNUZHYnc5aU01RURPdklUT3hnekwwVm1idXMyWXZ4V2JoVm1jME5uTHdjak4xTUdOalJETWlOVE8xOHlMNk1IYzBSSGE=</find>
-      <find>CHILE</find>
-      <find>China</find>
       <find>USA</find>
       <find>United states</find>
       <find>group-title=&quot;UK</find>
       <find>cartoo</find>
       <find>cartoon</find>
       <find>kids</find>
+      <find>https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png</find>
+      <find>NINMEDIA</find>
+      <find>http://www.tv-logo.com/pt-data/uploads/images/logo/ptv_home.jpg</find>
+      <find>bangla</find>
+      <find>indian</find>
+      <find>india</find>
+      <find>indi</find>
+      <find>pakistan</find>
+      <find>music</find>
+      <find>&quot;music</find>
+      <find>group-title=&quot;MUSIC&quot;</find>
+      <find>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcMePUXxLCUOM32tjGxkgZ7QLo2ZjIcQVN5i-f3Cf_fmdvK9GF</find>
+      <find>group-title=&quot;MOVIES&quot;</find>
+      <find>KNOWLEDGE</find>
+      <find>group-title=&quot;KNOWLEDG</find>
+      <find>group-title=&quot;Aus</find>
+      <find>Extra Spo</find>
+      <find>Sports</find>
+      <find>&quot;SPORTS&quot;</find>
+      <find>&quot;UAE&quot;</find>
+      <find>Q2VsUm1icDlTYmh4bVpoVldaNjl5Y3NoMkxsRm1MbEpYWm9kWGV1Rm1kMDV5TW81R1pqVm1kcHgyTHZvRGMwUkhh</find>
+      <find>&quot;UK&quot;</find>
+      <find>&quot;USA&quot;</find>
+      <find>320</find>
     </findStrings>
     <replaceStrings>
-      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/A/</replace>
-      <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/B/</replace>
       <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/C/</replace>
       <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/D/</replace>
       <replace>https://raw.githubusercontent.com/devsground/IPTV/master/country/E/</replace>
@@ -85,7 +130,6 @@
       <replace>https://raw.githubusercontent.com/devsground/IPTV/master/category/</replace>
       <replace>group-title=&quot;PAKISTAN&quot;</replace>
       <replace>Algeria</replace>
-      <replace>https://dl1.cbsistatic.com/i/2019/06/17/b17c6d61-946a-4ef1-b143-c08abc7853d0/153892094d660bca1eee0558e77f25be/imgingest-4799450232874756679.png</replace>
       <replace>Bosnia and Herzegovina</replace>
       <replace>Bolivia</replace>
       <replace>Belgium</replace>
@@ -96,6 +140,12 @@
       <replace>Cameroon</replace>
       <replace>Bulgaria</replace>
       <replace>Chile</replace>
+      <replace>https://dl1.cbsistatic.com/i/2019/06/17/b17c6d61-946a-4ef1-b143-c08abc7853d0/153892094d660bca1eee0558e77f25be/imgingest-4799450232874756679.png</replace>
+      <replace>LIVE TV HD</replace>
+      <replace>https://yt3.ggpht.com/a/AGF-l79ZAH-XVCCmqpXqQZmURZQWFYHHMVCfX5vQFg=s900-c-k-c0xffffffff-no-rj-mo</replace>
+      <replace>DOCUMENTARY</replace>
+      <replace>https://lh3.googleusercontent.com/jw1JPoiScHkgYO1YhRvKciOAl76EEgm8sMhXG_QKEdl-z9qyA7hZ8Tm0XZEoiINUxzo</replace>
+      <replace>720</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -112,7 +162,6 @@
       <list>
         <option value="$PROJECT_DIR$/country/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/all/livetv_playlist.m3u" />
         <option value="$PROJECT_DIR$/country/N_Q/pakistan.m3u" />
         <option value="$PROJECT_DIR$/channels_V2/feb2020/livetvhd.m3u" />
         <option value="$PROJECT_DIR$/channels_V2/feb2020/livetvhd00.m3u" />
@@ -132,13 +181,19 @@
         <option value="$PROJECT_DIR$/channels_V2/bdix/test" />
         <option value="$PROJECT_DIR$/channels_V2/bdix/bdix.m3u" />
         <option value="$PROJECT_DIR$/channels_V2/bdix/bdix_kids" />
+        <option value="$PROJECT_DIR$/all/livetv_playlist.m3u" />
+        <option value="$PROJECT_DIR$/all/deleted" />
+        <option value="$PROJECT_DIR$/all/bdix_iptv.m3u" />
         <option value="$PROJECT_DIR$/channels_V2/bdix/alloverbd.m3u" />
+        <option value="$PROJECT_DIR$/channels_V2/bdix/bdixtv" />
+        <option value="$PROJECT_DIR$/channels_V2/playlist_india.m3u" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="1895" />
+    <option name="x" value="-48" />
+    <option name="y" value="-20" />
+    <option name="width" value="1831" />
     <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -148,7 +203,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,18 +229,13 @@
             <path>
               <item name="IPTV" type="b2602c69:ProjectViewProjectNode" />
               <item name="IPTV" type="462c0819:PsiDirectoryNode" />
-              <item name="channels_V2" type="462c0819:PsiDirectoryNode" />
-              <item name="feb2020" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IPTV" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IPTV" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -474,7 +523,42 @@
       <option name="project" value="LOCAL" />
       <updated>1581505477835</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="livetvhd 01">
+      <created>1581512117175</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1581512117175</updated>
+    </task>
+    <task id="LOCAL-00036" summary="deleted">
+      <created>1581915079115</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1581915079116</updated>
+    </task>
+    <task id="LOCAL-00037" summary="logo update">
+      <created>1581915523467</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1581915523467</updated>
+    </task>
+    <task id="LOCAL-00038" summary="bdix task">
+      <created>1581924105103</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1581924105103</updated>
+    </task>
+    <task id="LOCAL-00039" summary="india">
+      <created>1581944159941</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1581944159941</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -490,8 +574,8 @@
       <window_info id="Resources Explorer" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="TODO" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32978722" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49946696" weight="0.32978722" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50053304" side_tool="true" weight="0.32978722" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.16595745" />
       <window_info anchor="bottom" id="Run" order="4" />
       <window_info anchor="bottom" id="Debug" order="5" />
@@ -507,14 +591,10 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="m3u list" />
-    <MESSAGE value="m3u list full" />
-    <MESSAGE value="readme" />
     <MESSAGE value="images" />
     <MESSAGE value="init all" />
     <MESSAGE value="livetvhd test" />
     <MESSAGE value="livetvhd 03-06" />
-    <MESSAGE value="livetvhd 01" />
     <MESSAGE value="livetvhd 02 07 08" />
     <MESSAGE value="livetvhd 002 07 08" />
     <MESSAGE value="3items" />
@@ -531,7 +611,12 @@
     <MESSAGE value="check push" />
     <MESSAGE value="bdix kids" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="livetvhd 01" />
+    <MESSAGE value="deleted" />
+    <MESSAGE value="logo update" />
+    <MESSAGE value="bdix task" />
+    <MESSAGE value="india" />
+    <option name="LAST_COMMIT_MESSAGE" value="india" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/country/README.md" />
@@ -562,16 +647,6 @@
     <entry file="file://$PROJECT_DIR$/images/screenshot-1568809274051.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/all/livetv_playlist.m3u">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="34" column="108" selection-start-line="34" selection-start-column="108" selection-end-line="34" selection-end-column="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/all/bdix_iptv.m3u">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/all/grouped_by_content.m3u">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -601,13 +676,6 @@
     <entry file="file://$PROJECT_DIR$/channels_V2/feb2020/1581279936708.m3u" />
     <entry file="file://$PROJECT_DIR$/images/bdusers" />
     <entry file="file://$PROJECT_DIR$/images/help" />
-    <entry file="file://$PROJECT_DIR$/channels_V2/playlist_india.m3u">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/channels_V2/playlist_all.m3u">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2652">
@@ -692,6 +760,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/bdix/bdix_kids" />
+    <entry file="file://$PROJECT_DIR$/all/livetv_playlist.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="108" selection-start-line="21" selection-start-column="108" selection-end-line="21" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/bdix_iptv.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="62" column="120" selection-start-line="62" selection-start-column="120" selection-end-line="62" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/bdix/bdixtv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5423">
+          <caret line="319" selection-start-line="319" selection-end-line="319" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/bdix/bdix_kids.m3u">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/bdix/bdix.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/channels_V2/bdix/test">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -699,26 +799,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/channels_V2/bdix/bdix.m3u">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="881">
-          <caret line="345" column="124" selection-start-line="345" selection-start-column="124" selection-end-line="345" selection-end-column="124" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/channels_V2/bdix/bdix_kids">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="881">
-          <caret line="160" selection-start-line="160" selection-end-line="160" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/channels_V2/bdix/alloverbd.m3u">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="803">
-          <caret line="12208" column="174" selection-start-line="12208" selection-start-column="174" selection-end-line="12208" selection-end-column="174" />
+        <state relative-caret-position="18581">
+          <caret line="1093" column="110" selection-start-line="1093" selection-start-column="110" selection-end-line="1093" selection-end-column="110" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/deleted">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/playlist_india.m3u">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="881">
+          <caret line="437" selection-start-line="437" selection-end-line="437" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels_V2/bdix/bdix_bdtv">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
