@@ -10942,8 +10942,6 @@ PT1BTzFOVGJ1RURPMU1qTHc4U1oybEdidkUyTjJVMlk1QXpONVVXTTU4ekw2bEhldVlIZHdsV2NvNVNh
 PWdUZHowbUw1Y0RPMk1qTHc4U1oybEdidkUyTjJVMlk1QXpONVVXTTU4ekw2bEhldVlIZHdsV2NvNVNhd0YyTHZvRGMwUkhh
 #EXTINF:-1 tvg-id="" tvg-name="Yas Sports ARB" tvg-logo="none" group-title="Arab Countries",Yas Sports ARB
 PT1BTzFOVGJ1Z0ROMU1qTHc4U1oybEdidkUyTjJVMlk1QXpONVVXTTU4ekw2bEhldVlIZHdsV2NvNVNhd0YyTHZvRGMwUkhh
-#EXTINF:-1 tvg-id="" tvg-name="Yemen Shabab ARB" tvg-logo="http://static.hqiptv.net/l1/yemenshabab.png" group-title="Arab Countries",Yemen Shabab ARB
-PT1BTzFOVGJ1QVROME1qTHc4U1oybEdidkUyTjJVMlk1QXpONVVXTTU4ekw2bEhldVlIZHdsV2NvNVNhd0YyTHZvRGMwUkhh
 #EXTINF:-1 tvg-id="" tvg-name="Zaytouna Hidaya TV ARB" tvg-logo="none" group-title="Arab Countries",Zaytouna Hidaya TV ARB
 PT1BTzFOVGJ1TXpOMU1qTHc4U1oybEdidkUyTjJVMlk1QXpONVVXTTU4ekw2bEhldVlIZHdsV2NvNVNhd0YyTHZvRGMwUkhh
 #EXTINF:-1 tvg-id="" tvg-name="Zaytouna TV ARB" tvg-logo="none" group-title="Arab Countries",Zaytouna TV ARB
@@ -32898,14 +32896,16 @@ PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MFdZbEpIZHo1U2JoTlhZMTFtZDBoMkx1UjJMMFZtYnVzMll2eFdi
 PWdUZHowbUwyUlhhaEptYmxsM0wyUjNjMjlDZGw1bUx2ZFdZalJYWnBaM0x2b0RjMFJIYQ==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SlS8xic.png" group-title="Virgin Islands of the United States",WSVI TV
 PT1BTzFOVGJ1SVhaME5YWXQ5U00xSUROelVEUXg4VloybEdialIyTHA5Q2RsNW1Ma2hXYWgxV1lyRm1Mb3hXTHdNVFoybEdicDVXZGpSMkx2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Rasdtv3.jpg" group-title="Western Sahara",RASD TV
-PWdUZHowbUwwTlhhc3RtYjFoMll2WUhka05YWXk5aWQwUjJjaEozTDBWbWJ1czJZdnhXYmhWbWMwTm5MMmNUTWpWR1ozRVRZbU5UTzE4eUw2TUhjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/poHvbNV.jpg" group-title="Yemen",Al Masirah
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/poHvbNV.jpg" group-title="YEMEN",Al Masirah
 PT1BTzFOVGJ1QURNd1VqTTVJMlgwTlhhc3RtYjFoMll2d1dhdE5uTGhKWGF6Rldic0YyTGxaWGFzRm1jcE5YWXR4V1l2UVhadTVpYmtOMmNySjNiM1JYYXVNbmR6OXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZeIznnv.jpg" group-title="Yemen",Sama Yemen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZeIznnv.jpg" group-title="YEMEN",Sama Yemen
 PT1BTzFOVGJ1Z1haazVXYXZVMk13RTJMNUZHYnc5Q013QURPNmtqTHlBak11SWpOeDR5TXhJekx2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/azGNY6n.jpg" group-title="Yemen",Yemen TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/azGNY6n.jpg" group-title="YEMEN",Yemen TV
 PT1BTzFOVGJ1OG1idjEyTHhFV00yMXljck5XWXlSM0x5a1hZaVp6TWZKMmF3QVRPZlpIZHVWV2JsbDNYdnRXYXVsMlp2NFdhbjlpTTVGbVkyTXpMdDkyWXVZSGQ2cDNiaTl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.hqiptv.net/l1/yemenshabab.png" group-title="YEMEN",Yemen Shabab ARB
+PT1BTzFOVGJ1QVROME1qTHc4U1oybEdidkUyTjJVMlk1QXpONVVXTTU4ekw2bEhldVlIZHdsV2NvNVNhd0YyTHZvRGMwUkhh
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5nzTXQM.png" group-title="Zimbabwe",Yadah TV
 PWdUZHowbUwwTlhhc3RtYjFoMll2d1dhdE5uTDRFVGJoVm1jME5IZGhOM2RsbG1kdmdUTXRGV1p5UjNjMEYyYzNWV2EyOVNkbDVDZGhOM2RsbG1kdWNtYnAxV1lsSkhkejl5TDZNSGMwUkhh
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GUZYfio.png" group-title="Zimbabwe",Yadah TV
