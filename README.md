@@ -229,6 +229,8 @@ These are the combined playlist of several countries for this IPTV app.
 | Weather       | `https://raw.githubusercontent.com/devsground/IPTV/master/category/weather.m3u`
 | Other         | `https://raw.githubusercontent.com/devsground/IPTV/master/category/other.m3u`
 | BDIX TV       | `https://raw.githubusercontent.com/devsground/IPTV/master/channels_V2/bdix/bdix_bdtv.m3u`
+| WORLDWIDE TV  | `https://raw.githubusercontent.com/devsground/IPTV/master/all/livetvhd.m3u`
+
 
 ## Notice
 If you just found an error or have any suggestions on how to organize a playlist please send a mail to us (devsground.help@gmail.com)
