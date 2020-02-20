@@ -1,31 +1,104 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vL0VnBZ.png" group-title="Sport",Channel 9 Sport
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/gazi_satellite_tv.jpg" group-title="BANGLADESH",gazi tv
+NFUzTXQ1eWNyNVdkb04yTDJSM1hwcFhZbjlTWjJsR2J2UVhadTV5YnZSV1lxbDJacFJtTDJSSGNwNVNac2RtYmhsbWMwOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/btv_world.jpg" group-title="BANGLADESH",BTV World
+PWdUZHowbUx6dG1iMWgyWXZRR2J5OTJkZlpIZGk5U1oybEdidlFYWnU1eWJ2UldZcWwyWnBSbUwyUkhjcDVTWnNkbWJobG1jMDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/asian_tv_bd.jpg" group-title="BANGLADESH",Asian TV
+PT1BTzFOVGJ1TTNhdVZIYWo5aWQwOWxiaGwyY2g5U1oybEdidlFYWnU1eWJ2UldZcWwyWnBSbUwyUkhjcDVTWnNkbWJobG1jMDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-GXdlFshR5WE/VhyWOUVeB0I/AAAAAAAABP8/3QQypKE6c0o/w1200-h630-p-k-no-nu/atn-bangla.jpg" group-title="BANGLADESH",ATN Bangla
+NFUzTXQ1eWNyNVdkb04yTGh4Mlp1Rm1ZZjVHZGg5U1oybEdidlFYWnU1eWJ2UldZcWwyWnBSbUwyUkhjcDVTWnNkbWJobG1jMDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atn_news.jpg" group-title="BANGLADESH",ATN News
+PT1BTzFOVGJ1TTNhdVZIYWo5eWMzVm1iZjVHZGg5U1oybEdidlFYWnU1eWJ2UldZcWwyWnBSbUwyUkhjcDVTWnNkbWJobG1jMDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bangla_vision.jpg" group-title="BANGLADESH",Banglavision
+NFUzTXQ1eWNyNVdkb04yTHU5V2F6bG1kZkZHYm41V1lpOVNaMmxHYnZRWFp1NXlidlJXWXFsMlpwUm1MMlJIY3A1U1pzZG1iaGxtYzA5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boishakhi.jpg" group-title="BANGLADESH",Boishakhi TV
+PWdUZHowbUx6dG1iMWgyWXZZSGRmbEdhckZHYXpsMmJpOVNaMmxHYnZRWFp1NXlidlJXWXFsMlpwUm1MMlJIY3A1U1pzZG1iaGxtYzA5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/channel9_bd.jpg" group-title="BANGLADESH",Channel 9
+PWdUZHowbUx6dG1iMWgyWXZrelhzVm1idUZHYWo5U1oybEdidlFYWnU1eWJ2UldZcWwyWnBSbUwyUkhjcDVTWnNkbWJobG1jMDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/channel_24_it.jpg" group-title="BANGLADESH",Channel 24
+NFUzTXQ1eWNyNVdkb04yTDBJelhzVm1idUZHYWo5U1oybEdidlFYWnU1eWJ2UldZcWwyWnBSbUwyUkhjcDVTWnNkbWJobG1jMDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/channel_i.jpg" group-title="BANGLADESH",Channel I
+PWdUZHowbUx6dG1iMWgyWXZrMlhzVm1idUZHYWo5U1oybEdidlFYWnU1eWJ2UldZcWwyWnBSbUwyUkhjcDVTWnNkbWJobG1jMDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLADESH",DBC News
+PT1BTzFOVGJ1TTNhdVZIYWo5eWMzVm1iZk5tWWs5U1oybEdidlFYWnU1eWJ2UldZcWwyWnBSbUwyUkhjcDVTWnNkbWJobG1jMDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/haULOlW.jpg" group-title="BANGLADESH",Deepto TV
+PWdUZHowbUx6dG1iMWgyWXZZSGRmOUdkd1ZXWms5U1oybEdidlFYWnU1eWJ2UldZcWwyWnBSbUwyUkhjcDVTWnNkbWJobG1jMDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/desh_tv.jpg" group-title="BANGLADESH",Desh TV
+NFUzTXQ1eWNyNVdkb04yTDJSM1hvTlhaazlTWjJsR2J2UVhadTV5YnZSV1lxbDJacFJtTDJSSGNwNVNac2RtYmhsbWMwOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tqr4tbx.jpg" group-title="BANGLADESH",Duronto TV
+NFUzTXQ1eWNyNVdkb04yTDJSM1h2Um5idkpYZGs5U1oybEdidlFYWnU1eWJ2UldZcWwyWnBSbUwyUkhjcDVTWnNkbWJobG1jMDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ekattor_tv.jpg" group-title="BANGLADESH",Ekattor TV
+NFUzTXQ1eWNyNVdkb04yTDJSM1h5OUdkMEYyYWw5U1oybEdidlFYWnU1eWJ2UldZcWwyWnBSbUwyUkhjcDVTWnNkbWJobG1jMDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ekushey_tv.jpg" group-title="BANGLADESH",Ekushey TV
+NFUzTXQ1eWNyNVdkb04yTDJSM1g1VkdhelYzYWw5U1oybEdidlFYWnU1eWJ2UldZcWwyWnBSbUwyUkhjcDVTWnNkbWJobG1jMDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/9b/ee/5e/9bee5e9aa6b70625ecb62d2e2c2973eb.jpg" group-title="BANGLADESH",Gaan Bangla
+PT1BTzFOVGJ1TTNhdVZIYWo5U1lzZG1iaEoyWHVGV1luOVNaMmxHYnZRWFp1NXlidlJXWXFsMlpwUm1MMlJIY3A1U1pzZG1iaGxtYzA5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/independent_tv.jpg" group-title="BANGLADESH",Independent News
+PT1BTzFOVGJ1TTNhdVZIYWo5aWQwOUZkdVZHWnVWR2NsUm1icDlTWjJsR2J2UVhadTV5YnZSV1lxbDJacFJtTDJSSGNwNVNac2RtYmhsbWMwOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.deshibiz.com/img/media/post/1463733058_jamunatv6.jpg" group-title="BANGLADESH",Jamuna TV
+PWdUZHowbUx6dG1iMWgyWXZZSGRmRm1iMTFXWXE5U1oybEdidlFYWnU1eWJ2UldZcWwyWnBSbUwyUkhjcDVTWnNkbWJobG1jMDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ip0Ab8L.jpg" group-title="BANGLADESH",Nagorik TV
+NFUzTXQ1eWNyNVdkb04yTDJSM1hybG1jdmRXWXU5U1oybEdidlFYWnU1eWJ2UldZcWwyWnBSbUwyUkhjcDVTWnNkbWJobG1jMDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ntv_national_tv_uk.jpg" group-title="BANGLADESH",NTV
+PWdUZHowbUx6dG1iMWgyWXZZSGR1OVNaMmxHYnZRWFp1NXlidlJXWXFsMlpwUm1MMlJIY3A1U1pzZG1iaGxtYzA5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/RiRI3w6Tu0zfMOvIVHsV2keLlWvgs63EX4jqoDMZXB9Nu4Xv_116rvVjOOM7ZFT5pw" group-title="BANGLADESH",RTV
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2WUhkeTlTWjJsR2J2UVhadTV5YnZSV1lxbDJacFJtTDJSSGNwNVNac2RtYmhsbWMwOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/e2/ac/fc/e2acfca19f80138901767f766b7eeb25.jpg" group-title="BANGLADESH",SA TV
+NFUzTXQ1Q2R6bEdiNUZHYnc5aWQwOVZZejlTWjJsR2J2UVhadTV5YnZSV1lxbDJacFJtTDJSSGNwNVNac2RtYmhsbWMwOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/d2/24/e1/d224e10777e0dfa6ba6734e8b6cc648b.jpg" group-title="BANGLADESH",Somoy News
+NFUzTXQ1eWNyNVdkb04yTHpkWFp1OVZldjEyYno5U1oybEdidlFYWnU1eWJ2UldZcWwyWnBSbUwyUkhjcDVTWnNkbWJobG1jMDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vL0VnBZ.png" group-title="BANGLADESH",Channel 9 Sport
 PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTDUwQ2JsNW1iaGgyUXZrVExzVm1idUZHYUQ5U056a1RNNlFUTXVZVE54NHlOMEVqTDNJekx2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dyoXd9c.png" group-title="None",Channel T1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dyoXd9c.png" group-title="BANGLADESH",Channel T1
 NFUzTXQ1Q2VsUm1icDlDTTRBVE12RURkc1ZtYnVGR2FqOUNNMkVqTHlFak11a1RPeDRDT3lFekx2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TjVJT22.png" group-title="None",Channel-S
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TjVJT22.png" group-title="BANGLADESH",Channel-S
 NFUzTXQ1Q2VsUm1icDlDV1VsVFl0RmxjTlJqTWZsek4ySWpNdmcyY3B4bVkxQjNMekVtTjNVek0zTVRMeTlTYnZObUx1Um1jenBtTGg5eUw2TUhjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TjVJT22.png" group-title="None",Channel-S
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TjVJT22.png" group-title="BANGLADESH",Channel-S
 PT1BTzFOVGJ1TUhiejRHTm9OMkx5QURNNElXY3A5U000b2pkMDVTZWh4R2N4bG1MeEFEY2g5eUw2TUhjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/haULOlW.jpg" group-title="None",Deepto TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/haULOlW.jpg" group-title="BANGLADESH",Deepto TV
 NFUzTXQ1Q052TUhibzlDTTRBRE82SWpMMlVUTXVRVE15NHlNd0V6THZvRGMwUkhh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tqr4tbx.jpg" group-title="Kids",Duronto TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tqr4tbx.jpg" group-title="BANGLADESH",Duronto TV
 PWdUZHowbUwwTlhhc2xYWXNCM0x0RldaeVIzY3VZRlZ0OEdkdTltYzFSMExXUlZMdlJuYjFKWGRFOVNOemtUTTZRVE11WVROeDR5TjBFakwzSXpMdm9EYzBSSGE=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NcgtFek.png" group-title="None",GAZI TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NcgtFek.png" group-title="BANGLADESH",GAZI TV
 NFUzTXQ1U012TUhibzlDTTRBRE82SWpMMlVUTXVRVE15NHlNd0V6THZvRGMwUkhh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PHZukyw.jpg" group-title="None",Iqra Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PHZukyw.jpg" group-title="BANGLADESH",Iqra Bangla
 NFUzTXQ1U1lzTlROeGwyTHlBRE00SVdjcDlTTTRvamQwNVNlaHhHY3hsbUx4QURjaDl5TDZNSGMwUkhh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hW6tB8W.jpg" group-title="None",Maasranga
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hW6tB8W.jpg" group-title="BANGLADESH",Maasranga
 NFUzTXQ1aU12TUhibzlDTTRBRE82SWpMMlVUTXVRVE15NHlNd0V6THZvRGMwUkhh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wXD46OS.jpg" group-title="None",Mohona TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wXD46OS.jpg" group-title="BANGLADESH",Mohona TV
 PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTFdSVkxoNTJibzlXVHZZRlZ0RW1idmgyYk45U056a1RNNlFUTXVZVE54NHlOMEVqTDNJekx2b0RjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ip0Ab8L.jpg" group-title="None",Nagorik TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ip0Ab8L.jpg" group-title="BANGLADESH",Nagorik TV
 NFUzTXQ1eU12TUhibzlDTTRBRE82SWpMMlVUTXVRVE15NHlNd0V6THZvRGMwUkhh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="None",NTV (UK Time)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="BANGLADESH",NTV (UK Time)
 NFUzTXQ1Q2VsUm1icDlTT3BkM1l2cDNNU0owTWZCRE8ySWpNdmcyY3B4bVkxQjNMeEVtTjNVek0zTVRMeTlTYnZObUx1Um1jenBtTGg5eUw2TUhjMFJIYQ==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="None",NTV (US Pacific Time)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="BANGLADESH",NTV (US Pacific Time)
 PWdUZHowbUxqOUNNd2dETXQ4U09wZDNZdnAzTVNKME1mQkRPMklqTXZRM2NoTkdaaDltY2k5U2J2Tm1MdVJtY3pwbUxoOXlMNk1IYzBSSGE=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QIod9ih.png" group-title="Sport",Willow
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QIod9ih.png" group-title="BANGLADESH",Willow
 PT1BTzFOVGJ1TTNhdVZIYWo5eWR2eEdicGQzTGxaWGFzOVNNNEFETzZnVE51SVROeTR5TjM0eU13RXpMdm9EYzBSSGE=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ObH39NO.jpg" group-title="None",Zee Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ObH39NO.jpg" group-title="BANGLADESH",Zee Bangla
 PT1BTzFOVGJ1TTNhdVZIYWo5U1lzZG1iaEpXWmxwM0xsWlhhczlTTTRBRE82Z1ROdUlUTnk0eU4zNHlNd0V6THZvRGMwUkhh
