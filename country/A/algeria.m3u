@@ -1,7 +1,22 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bc7wRWS.jpg" group-title="None",Amel TV
+#EXTM3U  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bc7wRWS.jpg" group-title="ALGERIA",Amel TV
 NFUzTXQ1eWJ1OVdidkVUWXhZWEx6dDJZaEpIZHZBSFp6NVNad01XWW1Oek16SVdOaVpET3pBaloxSURPd1l6WWlSell6TXpOeUUyTnk4U1oybEdiejEyTDBWbWJ1MFdZbEpIZHpWbWRweDJjdDVpY2xsWFlzQjNMdm9EYzBSSGE=
-#EXTINF:-1 tvg-id="Canal Algerie ARB" tvg-name="Canal Algerie ARB" tvg-logo="https://i.imgur.com/GxSZcYi.png" group-title="None",Canal Algérie
+#EXTINF:-1 tvg-id="Canal Algerie ARB" tvg-name="Canal Algerie ARB" tvg-logo="https://i.imgur.com/GxSZcYi.png" group-title="ALGERIA",Canal Algérie
 PT1RWnBKWFpueFdZOVFXYS9nVGR6MG1MNVF6WDV0V2V2aDNYeVoyTDRVM010OWlkMDlTYnZObUxrRldib0ZHYmw1eWQzZDNMdm9EYzBSSGE=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/T6bEOQt.png" group-title="None",Chaine Nord-Africaine
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/T6bEOQt.png" group-title="ALGERIA",Chaine Nord-Africaine
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2QUhaejVTWjJsR2J2RW1iajlTYnZObUwwTlhZakZXWnlObUx4Z2pjME4zTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="" tvg-name="Algerie 3 ARB" tvg-logo="http://static.hqiptv.net/l1/algerie3.png" group-title="ALGERIA",Algerie 3 ARB
+PT1BTzFOVGJ1RXpOMU1qTHc4U1oybEdidkUyTjJVMlk1QXpONVVXTTU4ekw2bEhldVlIZHdsV2NvNVNhd0YyTHZvRGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="Algerie 4 ARB" tvg-logo="http://static.hqiptv.net/l1/algerie4.png" group-title="ALGERIA",Algerie 4 ARB
+PT1BTzFOVGJ1QXpOMU1qTHc4U1oybEdidkUyTjJVMlk1QXpONVVXTTU4ekw2bEhldVlIZHdsV2NvNVNhd0YyTHZvRGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="Algerie 5 Quoran ARB" tvg-logo="none" group-title="ALGERIA",Algerie 5 Quoran ARB
+PT1BTzFOVGJ1a2pOMU1qTHc4U1oybEdidkUyTjJVMlk1QXpONVVXTTU4ekw2bEhldVlIZHdsV2NvNVNhd0YyTHZvRGMwUkhh
+#EXTINF:-1 tvg-id="Canal Algerie ARB" tvg-name="Canal Algerie ARB" tvg-logo="http://static.hqiptv.net/l1/canalalgerie.png" group-title="ALGERIA",Canal Algerie ARB
+PT1BTzFOVGJ1SXpOMU1qTHc4U1oybEdidkUyTjJVMlk1QXpONVVXTTU4ekw2bEhldVlIZHdsV2NvNVNhd0YyTHZvRGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="ENTV Algerie ARB" tvg-logo="none" group-title="ALGERIA",ENTV Algerie ARB
+PT1BTzFOVGJ1UWpOMU1qTHc4U1oybEdidkUyTjJVMlk1QXpONVVXTTU4ekw2bEhldVlIZHdsV2NvNVNhd0YyTHZvRGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="KBC Algerie ARB" tvg-logo="none" group-title="ALGERIA",KBC Algerie ARB
+PT1BTzFOVGJ1WWpOMU1qTHc4U1oybEdidkUyTjJVMlk1QXpONVVXTTU4ekw2bEhldVlIZHdsV2NvNVNhd0YyTHZvRGMwUkhh
+#EXTINF:-1 tvg-id="" tvg-name="Numedia Algerie ARB" tvg-logo="none" group-title="ALGERIA",Numedia Algerie ARB
+PT1BTzFOVGJ1Y2pOMU1qTHc4U1oybEdidkUyTjJVMlk1QXpONVVXTTU4ekw2bEhldVlIZHdsV2NvNVNhd0YyTHZvRGMwUkhh
