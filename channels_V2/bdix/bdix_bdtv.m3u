@@ -1,5 +1,41 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1
+NFUzTXQ1eWNyNVdkb04yTHhNSGR5OUdjejVXYWxKMkxpSlhZcEptY2g5U000QURPNllUTXVnakwxRWpMeFV6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2
+NFUzTXQ1eWNyNVdkb04yTHlNSGR5OUdjejVXYWxKMkxpSlhZcEptY2g5U000QURPNllUTXVnakwxRWpMeFV6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports3.qa.png" group-title="Sports",beIN Sports 3
+NFUzTXQ1eWNyNVdkb04yTHpNSGR5OUdjejVXYWxKMkxpSlhZcEptY2g5U000QURPNllUTXVnakwxRWpMeFV6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports4.qa.png" group-title="Sports",beIN Sports 4
+NFUzTXQ1eWNyNVdkb04yTDBNSGR5OUdjejVXYWxKMkxpSlhZcEptY2g5U000QURPNllUTXVnakwxRWpMeFV6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports5.qa.png" group-title="Sports",beIN Sports 5
+NFUzTXQ1eWNyNVdkb04yTDFNSGR5OUdjejVXYWxKMkxpSlhZcEptY2g5U000QURPNllUTXVnakwxRWpMeFV6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports6.qa.png" group-title="Sports",beIN Sports 6
+NFUzTXQ1eWNyNVdkb04yTDJNSGR5OUdjejVXYWxKMkxpSlhZcEptY2g5U000QURPNllUTXVnakwxRWpMeFV6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports7.qa.png" group-title="Sports",beIN Sports 7
+NFUzTXQ1eWNyNVdkb04yTDNNSGR5OUdjejVXYWxKMkxpSlhZcEptY2g5U000QURPNllUTXVnakwxRWpMeFV6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports8.qa.png" group-title="Sports",beIN Sports 8
+NFUzTXQ1eWNyNVdkb04yTDRNSGR5OUdjejVXYWxKMkxpSlhZcEptY2g5U000QURPNllUTXVnakwxRWpMeFV6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports9.qa.png" group-title="Sports",beIN Sports 9
+NFUzTXQ1eWNyNVdkb04yTDVNSGR5OUdjejVXYWxKMkxpSlhZcEptY2g5U000QURPNllUTXVnakwxRWpMeFV6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports10.qa.png" group-title="Sports",beIN Sports 10
+PT1BTzFOVGJ1TTNhdVZIYWo5Q014TUhkeTlHY3o1V2FsSjJMaUpYWXBKbWNoOVNNNEFETzZZVE11Z2pMMUVqTHhVekx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports11.qa.png" group-title="Sports",beIN Sports 11
+PT1BTzFOVGJ1TTNhdVZIYWo5U014TUhkeTlHY3o1V2FsSjJMaUpYWXBKbWNoOVNNNEFETzZZVE11Z2pMMUVqTHhVekx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports12.qa.png" group-title="Sports",beIN Sports 12
+PT1BTzFOVGJ1TTNhdVZIYWo5aU14TUhkeTlHY3o1V2FsSjJMaUpYWXBKbWNoOVNNNEFETzZZVE11Z2pMMUVqTHhVekx2b0RjMFJIYQ==
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/gazi_satellite_tv.jpg" group-title="BD",gazi tv
 NFUzTXQ1eWNyNVdkb04yTDJSM1hwcFhZbjlTWjJsR2J2UVhadTV5YnZSV1lxbDJacFJtTDJSSGNwNVNac2RtYmhsbWMwOXlMNk1IYzBSSGE=
 
