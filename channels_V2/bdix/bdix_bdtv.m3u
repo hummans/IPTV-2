@@ -528,7 +528,8 @@ PWdUZHowbUx6dG1iMWgyWXZJV1pscEhhbFIzTDJSM0wyUm5MazVXZHZKV1p1UWpOeVZXYmhWbWMwTjNM
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/224_300.png" group-title="IND",Star Vijay
 PT1BTzFOVGJ1OG1idjEyTHhFV00yMXljck5XWXlSM0xFaDBYNUZtYUpaMVh5RkdkVDlDTjNFakx3VWpNdVFETng0aU54SXpMdm9EYzBSSGE=
 
-#hollywood
+
+
 
 #EXTINF:-1 tvg-logo="http://www.tennistv.com/help/wp-content/themes/tennistv-support/dist/images/tennistv-footer.png" group-title="Sports",ATP Tennis TV
 NU16TnhFak81Z2pMelFqTXVRVE54NHlNd0l6THZvRGMwUkhh
@@ -638,14 +639,13 @@ PWdUZHowbUw0VkdadWwyTHdJek5maFhhejlWZXU5MmN2VW1kcHgyTHQ5Mll1VW1kcHhXWmxabVp2Um5M
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/SonySIX.in.png" group-title="Sports",Ads sport cricket
 NFUzTXQ1U2JoVm1jME4zTHp4R2F2UVROdUlUTnk0eU4wNGlNeEl6THZvRGMwUkhh
 
-
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/pl/BabyFirstTV.pl.png" group-title="Kids/Animation",BabyFirst
 NFUzTXQ1Q2VsUm1icDlpWnhJWFJYZDNZRVZEVjBwWFRabGpSdlVtZHB4MkwzUm5MdDkyWXVZSGQ1QkhjaGhtTHpBRE16MTJMdm9EYzBSSGE=
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/Boomerang.de.png" group-title="Kids/Animation",Boomerang
 PT1BTzFOVGJ1VURNdmNtYmhKWFp0OTJiaTl5Y3NoMkxsRm1MbEpYWm9kWGV1Rm1kMDV5TW81R1pqVm1kcHgyTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-logo="http://images.squarespace-cdn.com/content/569ff0561115e0973545a242/1453322587420-THFQ3VWPKVSYVDXE0MYJ/bPOP+logo+medium.png group-title="Kids/Animation",Battery Pop
+#EXTINF:-1 tvg-logo="http://images.squarespace-cdn.com/content/569ff0561115e0973545a242/1453322587420-THFQ3VWPKVSYVDXE0MYJ/bPOP+logo+medium.png" group-title="Kids",Battery Pop
 NFUzTXQ1Q2R6bEdiNUZHYnc5aVRFTjBMdzlHYzVKWFowUlhZaWgzYmlSV1p5MVNReUVqTXg4V2IxaDNYaFJYWWs5MWNzaDJYcGRXWXRGMkx0OTJZdThXYjFobkx5a1dZazl5TDZNSGMwUkhh
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Kids/Animation",Disney Channel
@@ -701,6 +701,7 @@ PWdUZHowbUx5VkdkekZXYnZVRE4xWUROekFVTWY1a1VOOVNhdlFYWnU1Q1pvbFdZdEYyYWg1Q2FzMWlZ
 
 #EXTINF:-1 tvg-logo="http://cloudfront.timesnownews.com/site/static/web_t3/web_new/images/logo.png" group-title="News",Times Now
 PT1BTzFOVGJ1QVhMMkYyWHdJek5maFhaazVXYXZnRE95a2pNeEFVTWZSRVNPUjFMcDlDZGw1bUxraFdhaDFXWXJGbUxveFdMMzltYnpWV2JwUjNMdm9EYzBSSGE=
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/NDTV24x7.in.png" group-title="News",NDTV 24X7
 NFUzTXQ1aWNsUjNjaDEyTjRSak0yUkhadTl5TjRSak0yUkhadTlDTzNZek13QWpNdlVtZHB4Mkx6eEdhdlFYWnU1Q1pscFhhaDFXWXJGbUxoNVdZb05tY2gxV1pzVjJONFJqTTJSSFp1OXlMNk1IYzBSSGE=
 
@@ -712,6 +713,7 @@ NFUzTXQ1aU53OFNaMmxHYnZRRE0wRXpMemRYWnVsM2F6OWlkMEYyTHQ5Mll1NG1ka2wzYXo1Q1p2Skhj
 
 #EXTINF:-1 tvg-logo="http://www.chinafile.com/sites/default/files/assets/images/publication/logo_featured/voice_of_america_logo-feature.png" group-title="News",Voice of America
 NFUzTXQ1Q2N0WVhZZkJETjFBelg0VkdadWwyTDRrak13SXpNQVp6WXRaSGRmTkhidzEyWGg5bWR2azJMMFZtYnVRR2FwRldiaHRXWXVnR2J0RTJiMjl5TDZNSGMwUkhh
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/BloombergTV.us.png" group-title="News",Bloomberg Asia
 PWdUZHowbUxsWlhhczlWTXRBRE13RVRMelpYY1dSRlVCMVNaakpYZHZOMUx4MHliNXQyYjAxeVVYRlVMelpYY1dSRlVCMUNibDVtYmhoMlF2RURjaDlDZGw1bUw1eEdkekZtWnV3MmN6NUNiaEoyYnNkbUwwTlhZbGhHZHk5bWJ3RkdadkpIY2xaWGFzOXlMNk1IYzBSSGE=
 
@@ -721,7 +723,7 @@ PWdUZHowbUxsWlhhczlWTXRBRE13RVRMV1IxVVYxU1pqSlhkdk4xTHgwU1lwNVdhbkpYYTIxeVVYRlVM
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/co/AMC.co.png" group-title="Movies",AMC
 NFUzTXQ1eWJ1OVdidkVUWXhZWEx6dDJZaEpIZHZNVVRCOVNidk5tTDBSM2J0Um5jaDVDZDA5Mkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/id/AXN.id.png group-title="Movies",AXN
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/id/AXN.id.png" group-title="Movies",AXN
 NFUzTXQ1Q2VsUm1icDlpYjRGMkx6eEdhdkFET3dnak8wVm1idVFYWnVsbWRwUlhibGhuTDJGMkx2b0RjMFJIYQ==
 
 #EXTINF:-1 tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22667/bollywood-tv/logo_20191213_005922.png" group-title="Movies",Bollywood TV
