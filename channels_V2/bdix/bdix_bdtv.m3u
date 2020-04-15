@@ -568,10 +568,10 @@ NFUzTXQ1U053OFNac0IzYmxCM1h2VjJaZlJYWXU5eWNzaDJMd2dqT2xGbUxsSlhab2RYZXVGbWQwNVNN
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/sa/StarMovies.sa.png" group-title="MOVIES",Star Movies
 NFUzTXQ1U053OHljbGxtZHYxMlh5Rkdkejl5Y3NoMkx3Z2pPbEZtTGxKWFpvZFhldUZtZDA1U01vNUdaalZtZHB4Mkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/600px-Nat_Geo_Wild_Canada.svg.png" group-title="INT",$ Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/600px-Nat_Geo_Wild_Canada.svg.png" group-title="INT",Nat Geo Wild
 PT1BTzFOVGJ1UURNdlFHYnBkM1h2VjJaZlJYWXU5eWNzaDJMbEZtTGxKWFpvZFhldUZtZDA1U01vNUdaalZtZHB4Mkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/600px-New_NatGeo_People_logo.svg.png" group-title="INT",$ Nat Geo People
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/600px-New_NatGeo_People_logo.svg.png" group-title="INT",Nat Geo People
 NFUzTXQ1Q053OFNac0IzYmxCM1h2VjJaZlJYWXU5eWNzaDJMbEZtTGxKWFpvZFhldUZtZDA1U01vNUdaalZtZHB4Mkx2b0RjMFJIYQ==
 
 #SOURCE14
@@ -1063,10 +1063,10 @@ aUVET3pNbU0yY1RaeWdETjFnVFo1Y1RNMmdEWnpJRE55VUdOMUFqTmlSV05mQkRNd2NETXdjek4xRVRQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS",Animax
 PT1BTzFOVGJ1RURNdlFETnhnMkxvOVNOMFFUT3lSMkw0RXpNNWdqWjJZalp4Z3pZdElXTTRnVEw0VVdNeDBTTzJFR1p0WWpNMUl6WWlORE92NDJicE4zY2xOM0wxTWpMMVVUTXVBVE15NENNeEl6THZvRGMwUkhh
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/630px-Aniplus_Asia_Logo.png" group-title="KIDS",$ Aniplus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/630px-Aniplus_Asia_Logo.png" group-title="KIDS",Aniplus
 NFUzTXQ1U013OGlNd2cyTG85U04wUVRPeVIyTDBRRFo0TUdaemtqWmtsRE90Y2pOaUZXTDRVV014MFNObU5qWnRJRE54WVRNeVFHTXY0MmJwTjNjbE4zTDFNakwxVVRNdUFUTXk0Q014SXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg" group-title="Music",$ Pop Hungama Hits
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg" group-title="Music",Pop Hungama Hits
 PT1BTzFOVGJ1SVhaME5YWXQ5U00wSVROMllEUXg4VllyRkdkaEJIY3ZCM0xwOUNkbDVtTGtoV2FoMVdZckZtTG94V0x1VkhhMEFqY2hWbWJweDJMdm9EYzBSSGE=
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg" group-title="IND",Kadak Hungama Hits
@@ -2215,3 +2215,13 @@ NFUzTXQ1eWNyNVdkb04yTGgxV1p1bDJZaHgyWnVGbVlsVm1ldkFqTXdJRFpzSjNiM1ZtWXZ4Mlp2RURP
 #EXTINF:-1 group-title="IND",Popular Scince
 PT1BTzFOVGJ1TTJMb2RXYW85Q013QURNcjhpWTJjalp5RVRPM1FETnZRM2NoTkdaaDltY2k5U2J2Tm1MdVJtY3pwbUxoOXlMNk1IYzBSSGE=
 
+#SOURCEDELETE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6chO5x2.png" group-title="Sports",WWE Network
+PWdUZHowbUwyUjNjMWhYZHNaMlA0VTNNdDVDTndnRE14OENOdk1IYmw1bWJoaDJZdjhtWnVsbUwxUkRkekYyWXVrVE1yRm1ia04yTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="IND",ABP Ananda
+NFUzTXQ1Q04yVVRNZk5IYm9KWFowTlhZdDlTWWs1V1l1RkdjaUYyTHdNVE4xWXpOdlVtZHB4Mkx6eEdhdlFYWnU1Q1pvbFdZdEYyYWg1U2F0QW5ZaDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="http://mafashortfilm.uk/public/images/mafal.png" group-title="Movies",Mafa Short Flim
+PT1BTzFOVGJ1Z1haazVXYXZFVEw1RURPMFVUTEhKRlV0TUZUdmNtY3Y1eU4zNEdaajV5WXpKbkwyRVRNMUVUTXpRRE14OHlMNk1IYzBSSGE=
+#SOURCEDELETE
