@@ -1,6 +1,7 @@
 #EXTM3U
 
 #SOURCEIT
+
 #EXTINF:-1 tvg-logo="http://gazitv.com/wp-content/uploads/2016/08/Logo.png" group-title="SERVER01",Gazi Tv
 PWdUZHowbUx6dG1iMWgyWXZZSGRmbG1laGQyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
 
@@ -106,6 +107,27 @@ NFUzTXQ1eWNyNVdkb04yTGh4Mlp1Rm1ZZjVXWWhkMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhk
 #EXTINF:-1 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="SERVER01",Sangeet Bangla
 NFUzTXQ1eWNyNVdkb04yTGh4Mlp1Rm1ZZlJYWmxkbWJoTjNMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="SERVER01",ZEE TV
+PT1BTzFOVGJ1TTNhdVZIYWo5aWQwOVZabHAzTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia.jpg" group-title="SERVER01",Nat Geo Wild
+PT1BTzFOVGJ1TTNhdVZIYWo5Q1pzbDJkZjlXWm45RmRoNTJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Colors.in.png" group-title="SERVER01",Colors HD
+PT1BTzFOVGJ1TTNhdVZIYWo5Q1pvOTFjeTlHYnZOMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/nat-geo-people-hd-logo-300x300.jpg" group-title="SERVER01",Net Geo People
+NFUzTXQ1eWNyNVdkb04yTGx4R2N2VkdjZjlXWm45RmRoNTJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/D-QPvXREprDcNJ9Ypfnrxd7nZ3Uil8pHjaZUWWtOQp2hLdYh4yk0KNHOVfih_d5_iA=w300" group-title="SERVER01",STAR GOLD
+PT1BTzFOVGJ1TTNhdVZIYWo5Q1pzOTJaZkpYWTBOM0xsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_cinema_asia.jpg" group-title="SERVER01",ZEE cinema
+PWdUZHowbUx6dG1iMWgyWXZFV2JsNVdhajlWWmxwM0xsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/v1562767001/resources/0-9-zeeclassic/channel_square/zeebollywood386_1261156083.png" group-title="SERVER01",ZEE BOLLYWOOD
+NFUzTXQ1eWNyNVdkb04yTGpsMmN6RkdiajlWWmxwM0xsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/c7/f6/94c7f6559f4ce5b8559e8678a2048b74.png" group-title="SERVER01",Zoom
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MDJidnAzTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
 
@@ -151,8 +173,6 @@ PT1BTzFOVGJ1TTNhdVZIYWo5Q1pvOTFjMXhHY2ZKWFkwTjNMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEda
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarBharat.in.png" group-title="SERVER01",Star Bharat
 NFUzTXQ1eWNyNVdkb04yTDBGbWNoaG1ZZkpYWTBOM0xsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e9/0b/97/e90b974fa7fc1481b8a530a8783ff7e5.png" group-title="SERVER01",Probashi Bangla
-NFUzTXQ1Q2R6bEdiNUZHYnc5U1lzZG1iaEpXYW9OWFlpOW1jdzlDWnZaM0x4Z0RNNG9UYnZObUwyUkhjcFZXWmk1Q1p2WjNMdm9EYzBSSGE=
 #SOURCEIT
 #SOURCE01
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTrF-mqE6XF7kcz117lG8Rny6MKD5IPr3bG1CU95wbtccuO6zxq&usqp=CAU" group-title="IND",Star Sports 1
@@ -1269,29 +1289,8 @@ PU1UTXlFak81Z2pMelFqTXVRVE54NHlNd0l6THZvRGMwUkhh
 #EXTINF:-1 tvg-logo="http://dealood.com/content/uploads/images/June2019/sunburn[1]" group-title="MUSIC",Sunburn TV
 NFUzTXQ1Q2N3SXpOZlIzY3B4MlpsTjNMdUpYZGk1V2R6OWlkME5IWnYwV1lsSkhkejlTYnZObUxobEdabDEyY3ZWR2JsUm5MMlIzY2s1MlkyOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia.jpg" group-title="IND",Nat Geo Wild
-PT1BTzFOVGJ1TTNhdVZIYWo5Q1pzbDJkZjlXWm45RmRoNTJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/nat-geo-people-hd-logo-300x300.jpg" group-title="IND",Net Geo People
-NFUzTXQ1eWNyNVdkb04yTGx4R2N2VkdjZjlXWm45RmRoNTJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
-
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/SonyTEN2.in.png" group-title="IND",ten 2
 PWdUZHowbUw0VkdadWwyTHg4eVV1VkdWdkFET3dnak96TVRNdVVET3VJek54NHlNMkV6THZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="IND",ZEE TV
-PT1BTzFOVGJ1TTNhdVZIYWo5aWQwOVZabHAzTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_cinema_asia.jpg" group-title="IND",ZEE cinema
-PWdUZHowbUx6dG1iMWgyWXZFV2JsNVdhajlWWmxwM0xsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/v1562767001/resources/0-9-zeeclassic/channel_square/zeebollywood386_1261156083.png" group-title="IND",ZEE BOLLYWOOD
-NFUzTXQ1eWNyNVdkb04yTGpsMmN6RkdiajlWWmxwM0xsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/D-QPvXREprDcNJ9Ypfnrxd7nZ3Uil8pHjaZUWWtOQp2hLdYh4yk0KNHOVfih_d5_iA=w300" group-title="IND",STAR GOLD
-PT1BTzFOVGJ1TTNhdVZIYWo5Q1pzOTJaZkpYWTBOM0xsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Colors.in.png" group-title="IND",Colors HD
-PT1BTzFOVGJ1TTNhdVZIYWo5Q1pvOTFjeTlHYnZOMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040639.jpg" group-title="IND",Sony MaX HD
 NFUzTXQ1Q2R6bEdiNUZHYnc5Q1JJOUZXaDEwWDU1MmJUOUNOM0VqTHdVak11UUROeDRpTnhJekx2b0RjMFJIYQ==
