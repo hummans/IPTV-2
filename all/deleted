@@ -364,10 +364,6 @@ NFUzTXQ1U045Y21ibDlGTXdnRE81OFZZMEFYYnRZRlZrNVdRdGdUZHowbUx5RVRQNFlUTzVrRE55OFZN
 
 
 
-#S1 175.41.46.16
-#S2 toffeelive
-#s14 103.199.161.254
-#s5ch.iptvmate
 
 -----------------------------------------------------------
 
@@ -546,11 +542,6 @@ PWdUZHowbUw0VkdadWwyTHdJek1mRldhazVXYWZOV2F6VlhidlVtZHB4Mkx0OTJZdVVtZHB4V1psWm1a
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/music_india.jpg" group-title="IND",Music India
 PWdUZHowbUw0VkdadWwyTHdJek5mRldhazVXYWZOV2F6VlhidlVtZHB4Mkx0OTJZdVVtZHB4V1psWm1adlJuTHgwaWNsMVdZbEpIZHo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/AndTV_Logo.jpg" group-title="IND",&TV
-NFUzTXQ1Q2VsUm1icDlDTXlNelgyUm5idlVtZHB4Mkx0OTJZdVVtZHB4V1psWm1adlJuTHgwaWNsMVdZbEpIZHo5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/AndTV_Logo.jpg" group-title="IND",&TV
-NFUzTXQ1Q2VsUm1icDlDTXljelgyUm5idlVtZHB4Mkx0OTJZdVVtZHB4V1psWm1adlJuTHgwaWNsMVdZbEpIZHo5eUw2TUhjMFJIYQ==
 
 #EXTINF:-1 tvg-logo="http://aakashaath.com/images/logo.png" group-title="IND",Akash Aath
 PT1BTzFOVGJ1Z1haazVXYXZBak16OEZhMEZXWWZoMmNodFdZdlVtZHB4Mkx0OTJZdVVtZHB4V1psWm1adlJuTHgwaWNsMVdZbEpIZHo5eUw2TUhjMFJIYQ==
@@ -686,6 +677,11 @@ PT1BTzFOVGJ1Z1haazVXYXZZek4xOGxidmxHZGpGMlhsVm1ldlVtZHB4Mkx0OTJZdVVtZHB4V1psWm1a
 PT1BTzFOVGJ1Z1haazVXYXZBak0zOGxidmxHZGpGMlhsVm1ldlVtZHB4Mkx0OTJZdVVtZHB4V1psWm1adlJuTHgwaWNsMVdZbEpIZHo5eUw2TUhjMFJIYQ==
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/AndTV_Logo.jpg" group-title="IND",&TV
+NFUzTXQ1Q2VsUm1icDlDTXlNelgyUm5idlVtZHB4Mkx0OTJZdVVtZHB4V1psWm1adlJuTHgwaWNsMVdZbEpIZHo5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/AndTV_Logo.jpg" group-title="IND",&TV
+NFUzTXQ1Q2VsUm1icDlDTXljelgyUm5idlVtZHB4Mkx0OTJZdVVtZHB4V1psWm1adlJuTHgwaWNsMVdZbEpIZHo5eUw2TUhjMFJIYQ==
 
 
 
